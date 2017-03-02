@@ -1,0 +1,4 @@
+1 - Copiar la dll en la direccion C:\Windows\System32\
+2 - Ejecutar el cmd como administrador
+3 - Ejecutar el archivo instalar.bat desde el cmd
+4 - probar el ejemplo
